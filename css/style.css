@@ -69,6 +69,11 @@ body {
     ;
 }
 
+.btn-large:visited, .btn:visited {
+    background-color: #17191e;
+    color: white;
+}
+
 .citacao {
     background-color: #ffda00;
     height: 12em;
@@ -205,6 +210,11 @@ body {
 .navbar-brand img {
     width: 5em;
     border-style: none;
+}
+
+#servicos img {
+    width: 100%;
+    border: 2px solid yellow;
 }
 
 @media (min-width: 576px) {
