@@ -14,9 +14,21 @@ function mudarCorContatos() {
   $(facebook).animate({opacity: 0.5},500);
   $(facebook).animate({opacity: 1.0},500);
   $(facebook).animate({opacity: 0.5},500);
+  $(facebook).animate({opacity: 1.0},500);  
+  $(facebook).animate({opacity: 0.5},500);
+  $(facebook).animate({opacity: 1.0},500);
+  $(facebook).animate({opacity: 0.5},500);
+  $(facebook).animate({opacity: 1.0},500);
+  $(facebook).animate({opacity: 0.5},500);
   $(facebook).animate({opacity: 1.0},500);
 
   whatsapp = document.getElementById("whatsapp");
+  $(whatsapp).animate({opacity: 0.5},500);
+  $(whatsapp).animate({opacity: 1.0},500);
+  $(whatsapp).animate({opacity: 0.5},500);
+  $(whatsapp).animate({opacity: 1.0},500);
+  $(whatsapp).animate({opacity: 0.5},500);
+  $(whatsapp).animate({opacity: 1.0},500);
   $(whatsapp).animate({opacity: 0.5},500);
   $(whatsapp).animate({opacity: 1.0},500);
   $(whatsapp).animate({opacity: 0.5},500);
@@ -31,8 +43,20 @@ function mudarCorContatos() {
   $(instagram).animate({opacity: 1.0},500);
   $(instagram).animate({opacity: 0.5},500);
   $(instagram).animate({opacity: 1.0},500);
+  $(instagram).animate({opacity: 0.5},500);
+  $(instagram).animate({opacity: 1.0},500);
+  $(instagram).animate({opacity: 0.5},500);
+  $(instagram).animate({opacity: 1.0},500);
+  $(instagram).animate({opacity: 0.5},500);
+  $(instagram).animate({opacity: 1.0},500);
 
   envelope = document.getElementById("envelope");
+  $(envelope).animate({opacity: 0.5},500);
+  $(envelope).animate({opacity: 1.0},500);
+  $(envelope).animate({opacity: 0.5},500);
+  $(envelope).animate({opacity: 1.0},500);
+  $(envelope).animate({opacity: 0.5},500);
+  $(envelope).animate({opacity: 1.0},500);
   $(envelope).animate({opacity: 0.5},500);
   $(envelope).animate({opacity: 1.0},500);
   $(envelope).animate({opacity: 0.5},500);

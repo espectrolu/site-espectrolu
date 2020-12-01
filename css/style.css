@@ -86,26 +86,6 @@ body {
     padding-right: 0.3em;
 }
 
-.design img,
-.coding img,
-.apps img {
-    margin-top: 1em;
-}
-
-.design h2,
-.coding h2,
-.apps h2 {
-    color: #ffdb00;
-    margin-bottom: 30px;
-    font-size: 50pt;
-}
-
-.design p,
-.coding p,
-.apps p {
-    font-size: 15pt;
-}
-
 .conteiner-stats {
     background-color: #17191e;
     width: 100%;
@@ -185,7 +165,7 @@ body {
 
 .conteudo-cabecalho h1 {
     color: #ffdb00;
-    font-size: 5.8em;
+    font-size: 4.5em;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     text-align: center;
@@ -213,7 +193,13 @@ body {
 }
 
 #servicos img {
-    width: 100%;
+    width: 90%;
+    height: 90%;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-top: 0;
+    margin-bottom: 0;
 }
 
 @media (min-width: 576px) {
