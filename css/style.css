@@ -215,6 +215,7 @@ body {
 #servicos img {
     width: 100%;
     border: 2px solid black;
+    border-radius: 15px;
 }
 
 @media (min-width: 576px) {
