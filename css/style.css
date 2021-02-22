@@ -55,7 +55,7 @@ body {
     border-radius: 50px;
     color: white;
     background-color: #17191e;
-    border: 2px solid #ffda00;
+    border: 2px solid #ae8452;
     margin-top: 20px;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .btn:hover,
 .btn-large:hover {
-    background-color: #ffda00;
+    background-color: #ae8452;
     ;
 }
 
@@ -75,12 +75,12 @@ body {
 }
 
 .citacao {
-    background-color: #ffda00;
+    background-color: white;
     height: 12em;
 }
 
 .conteudo-citacao p {
-    color: #000000;
+    color: #ae8452;
     font-size: 20pt;
     padding-left: 0.3em;
     padding-right: 0.3em;
@@ -116,7 +116,7 @@ body {
     border-radius: 50px;
     background-color: white;
     color: black;
-    border: 2px solid #ffda00;
+    border: 2px solid #ae8452;
     margin-top: 42px;
     margin-bottom: 42px;
 }
@@ -164,7 +164,7 @@ body {
 }
 
 .conteudo-cabecalho h1 {
-    color: #ffdb00;
+    color: #ae8452;
     font-size: 4.5em;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
